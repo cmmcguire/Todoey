@@ -8,10 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		BC62A5B12242F1D100565B6E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC62A5B02242F1D100565B6E /* AppDelegate.swift */; };
-		BC62A5B32242F1D100565B6E /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC62A5B22242F1D100565B6E /* TodoListViewController.swift */; };
 		BC62A5B62242F1D100565B6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC62A5B42242F1D100565B6E /* Main.storyboard */; };
 		BC62A5B82242F1D500565B6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC62A5B72242F1D500565B6E /* Assets.xcassets */; };
 		BC62A5BB2242F1D500565B6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC62A5B92242F1D500565B6E /* LaunchScreen.storyboard */; };
+		BC62A5C4224F055800565B6E /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC62A5B22242F1D100565B6E /* TodoListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -135,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC62A5B32242F1D100565B6E /* TodoListViewController.swift in Sources */,
+				BC62A5C4224F055800565B6E /* TodoListViewController.swift in Sources */,
 				BC62A5B12242F1D100565B6E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
