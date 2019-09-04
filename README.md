@@ -4,4 +4,4 @@ Todoey is a simple to-do list app for iOS with a beautiful and colorful user int
 
 ## Sample
 
-![]()
+![](Todoey-sample.gif)
